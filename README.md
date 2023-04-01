@@ -45,6 +45,5 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: https://github.com/rahulvr29/profile-card-component.git
+- Live Site URL: https://fastidious-khapse-dcbbaa.netlify.app/
